@@ -4,7 +4,7 @@ go 1.26.3
 
 require (
 	github.com/gdamore/tcell/v3 v3.3.0
-	github.com/tekugo/zeichenwerk v1.1.0
+	github.com/tekugo/zeichenwerk v1.1.1
 )
 
 require (
